@@ -4,11 +4,13 @@ This video review lesson covers many of the concepts that you've learned about i
 ## Video
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/LSUevS1PRTg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### Video Summary
+
+In this video, Avi takes us through building a Sinatra app to query [Twitter API](https://dev.twitter.com/rest/public) for tweets.
+
+Sinatra is a [domain specific language (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language) for quickly creating web applications in Ruby. Avi will explain the  ```get``` and ```post```method, concepts of routes and controllers, and the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) software architecture pattern.
+
 ## How You Can Help Us Make These Videos Better
-
-### Suggest a Summary of the Video That We Can Add
-
-In one brief paragraph, what does this video cover? What are the concepts that are taught and what domain models or examples are used to teach those concepts? What other information, such as historical facts or context, is presented? 
 
 ### Suggest Learning Objectives That We Can Add
 
@@ -21,7 +23,6 @@ So for example. here's a good learning objective:
 - Use the `gets` method to capture, store, and operate on input
 
 Our action verb in this case is "Use." The verb then acts on the `gets` method. But what specifically do we want students to use the `get` method for? That's where the specific condition of "to capture, store, and operate on input" comes in. 
-
 
 ### How to Add a Summary or Objectives
 
